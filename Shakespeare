@@ -1,0 +1,8 @@
+$ mkdir shakespeare
+$ touch romeo_and_juliet.txt
+# What's in a name? That which we call a rose
+# By any other name would smell as sweet.
+$ git init
+$ git add .
+$ git commit -m "Romeo and Juliet"
+$ git push
